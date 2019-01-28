@@ -1,3 +1,3 @@
 # gradient
 
-[link] (https://wevertoum.github.io/gradient-exemplo/)
+- [link](https://wevertoum.github.io/gradient-exemplo/)
